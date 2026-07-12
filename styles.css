@@ -148,7 +148,7 @@ main {
 }
 
 .info {
-  min-width:45%;
+  min-width:35%;
   margin-right:20px;
 }
 
@@ -170,6 +170,7 @@ ul {
   display:flex;
   flex-direction:column;
   justify-content:space-around;
+  max-width:100%;
 
   > h2 {
     text-align: center;
